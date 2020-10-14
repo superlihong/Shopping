@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/shopping-common/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shopping-manager/shopping-manager-bean/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shopping-manager/shopping-manager-bean/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shopping-manager/shopping-manager-mapper/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shopping-manager/shopping-manager-mapper/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shopping-manager/shopping-manager-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shopping-manager/shopping-manager-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shopping-manager/shopping-manager-web/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shopping-manager/shopping-manager-web/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shopping-portal/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shopping-rest/src/main/resources" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

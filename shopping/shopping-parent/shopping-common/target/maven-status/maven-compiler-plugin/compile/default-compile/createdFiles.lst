@@ -1,0 +1,11 @@
+com\edu\common\bean\Item.class
+com\edu\common\bean\Message.class
+com\edu\common\bean\EUTreeResult.class
+com\edu\common\bean\ShoppingResult.class
+com\edu\common\bean\HttpClientUtil.class
+com\edu\common\bean\JsonUtils.class
+com\edu\common\bean\CookieUtils.class
+com\edu\common\bean\EUDatagridResult.class
+com\edu\common\bean\SearchResult.class
+com\edu\common\bean\FtpUtil.class
+com\edu\common\bean\IDUtils.class
